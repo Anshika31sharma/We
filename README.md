@@ -6,7 +6,7 @@ A simple Weather Forecast Dashboard built with React using Tailwind that allows 
 
 - Search for weather information by city name.
 - Toggle between metric and imperial units.
-- View current weather details and a 5-day forecast.
+- View current weather details and a 6-day forecast.
 
 ## Getting Started
 
